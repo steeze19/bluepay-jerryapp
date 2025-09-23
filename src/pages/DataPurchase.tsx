@@ -56,7 +56,7 @@ const DataPurchase = () => {
     }
 
     // Validate BPC code
-    if (bpcCode !== "99900") {
+    if (bpcCode !== "Bpc70221") {
       toast({
         variant: "destructive",
         description: "Invalid BPC code. Please enter a valid code.",

@@ -7,7 +7,7 @@ const QuickActions = () => {
   const navigate = useNavigate();
   
   const handleWatch = () => {
-    window.open("https://youtu.be/LNoETkiavb0?si=amr99AuevdJQD54w", "_blank");
+    window.open("https://youtu.be/Zo67A2epYcI?si=m_U-yu1nPxR5it0z", "_blank");
   };
 
   const quickActions = [
